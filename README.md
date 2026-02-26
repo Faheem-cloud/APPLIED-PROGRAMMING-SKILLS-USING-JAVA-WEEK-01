@@ -1,20 +1,40 @@
-# APPLIED-PROGRAMMING-SKILLS-USING-JAVA-WEEK-01
+# 🚀 Applied Programming Skills Using Java  
+## 📅 Week-01 & Week-02 Progress
+
 
 
 ---
 
-## 📌 Overview
-This repository contains solutions completed during **Week-01** of the *Applied Programming Skills Using Java* program.
+# 📌 Overview
 
-This week focused on strengthening:
-- Core Java fundamentals
-- Array and String manipulation
+This repository contains solutions implemented as part of the **Applied Programming Skills Using Java** program.
+
+These two weeks focused on building strong foundations in:
+
+- Problem-solving
 - Time & Space Complexity optimization
-- Problem-solving techniques
+- Arrays & Strings
+- Linked Lists
+- Hashing techniques
+- Two-Pointer strategies
+- Heap (Priority Queue)
 
 ---
 
-# 📚 Problems Solved
+# 🗓 Week-01: Arrays & Strings
+
+## 📚 Topics Covered
+
+- Binary Search
+- HashMap usage
+- Prefix Sum
+- Two-Pointer technique
+- Dutch National Flag Algorithm
+- In-place array manipulation
+
+---
+
+## ✅ Problems Solved – Week 01
 
 | # | Problem Name | Concepts Used | Time Complexity |
 |---|--------------|--------------|----------------|
@@ -30,43 +50,75 @@ This week focused on strengthening:
 
 ---
 
-# 🧠 Key Concepts Practiced
+# 🗓 Week-02: Linked Lists
 
-- ✅ Binary Search
-- ✅ HashMap Usage
-- ✅ Prefix Sum Technique
-- ✅ Two-Pointer Approach
-- ✅ In-place Array Manipulation
-- ✅ Optimization from O(n²) → O(n)
+## 📚 Topics Covered
+
+- Fast & Slow Pointer technique
+- Floyd’s Cycle Detection
+- Linked List Reversal
+- Merging Sorted Lists
+- Heap (Priority Queue)
+- Group-based reversal logic
 
 ---
 
-# 📈 Week-01 Summary
+## ✅ Problems Solved – Week 02
 
-- 🔹 Total Problems Solved: **9**
-- 🔹 Array-Based Problems: **6**
-- 🔹 String Problems: **2**
-- 🔹 Hashing Problems: **1**
-- 🔹 Focus Level: Beginner → Intermediate Foundation
+| # | Problem Name | Concepts Used | Time Complexity |
+|---|--------------|--------------|----------------|
+| 1 | Intersection of Two Linked Lists | Two Pointers | O(n) |
+| 2 | Linked List Cycle II | Floyd’s Algorithm | O(n) |
+| 3 | Merge k Sorted Lists | Min Heap | O(n log k) |
+| 4 | Merge Two Sorted Lists | Iterative Merge | O(n) |
+| 5 | Middle of the Linked List | Fast & Slow Pointer | O(n) |
+| 6 | Palindrome Linked List | Reverse + Two Pointers | O(n) |
+| 7 | Reverse Linked List | Iterative Reversal | O(n) |
+| 8 | Reverse Nodes in k-Group | Group Reversal | O(n) |
+
+---
+
+# 📊 Overall Progress Summary
+
+| Category | Count |
+|----------|--------|
+| Total Problems Solved | **17** |
+| Array & String Problems | **9** |
+| Linked List Problems | **8** |
+| Core Techniques Learned | 10+ |
+
+---
+
+# 🧠 Key Skills Developed
+
+- ✅ Time Complexity Analysis
+- ✅ Space Optimization
+- ✅ Two-Pointer Technique
+- ✅ HashMap Optimization
+- ✅ Prefix Sum Technique
+- ✅ Linked List Manipulation
+- ✅ Cycle Detection
+- ✅ Heap (Priority Queue)
+- ✅ In-place Reversal Algorithms
 
 ---
 
 # 🛠 Technologies Used
 
 - Java
-- IntelliJ IDEA / VS Code
-- Git
+- VS Code
 - GitHub
 
 ---
 
-# 🎯 Goals for Next Week
+# 🎯 Upcoming Goals
 
-- Solve more medium-level problems
-- Practice dynamic programming basics
-- Improve clean code structure
-- Increase problem-solving speed
+- Start Stack & Queue problems
+- Practice Recursion
+- Move towards Medium-level challenges
+- Improve coding speed & clean code structure
 
 ---
 
-⭐ Consistency is the key to mastering programming.
+⭐ Consistency + Practice = Mastery  
+🚀 On the journey to becoming a strong problem solver.
